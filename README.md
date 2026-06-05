@@ -1,6 +1,6 @@
 # Table of Contents
 
-*[EDA](#2.0)
+* [EDA](#2.0)
 * [Data Pre Processing](#3.0)
 * [Feature Encoding](#4.0)
 * [Model Building](#5.0)
